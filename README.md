@@ -23,7 +23,7 @@
 ![Python]
 
 ## My statistics
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=myronsi&theme=dark)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=myronsi)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myronsi&show_icons=true&theme=dark)
 
@@ -34,6 +34,3 @@
   
   ![snake gif](https://github.com/myronsi/myronsi/blob/output/github-snake-dark.svg)
 </div>
-
-
-#just comment#
