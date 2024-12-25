@@ -23,7 +23,7 @@
 ![Python]
 
 ## My statistics
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=myronsi)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=myronsi&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myronsi&show_icons=true&theme=dark)
 
