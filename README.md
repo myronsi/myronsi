@@ -28,9 +28,3 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myronsi&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myronsi&layout=compact&theme=dark)
-
-<!-- Snake -->
-<div align="center">
-  
-  ![snake gif](https://github.com/myronsi/myronsi/blob/output/github-snake-dark.svg)
-</div>
