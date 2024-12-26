@@ -10,7 +10,7 @@ on:
 
     - cron: "0 0 * * *"
 
-https://github.com/JustCookieCookie/JustCookieCookie/blob/output/ocean.gif
+https://github.com/myronsi/myronsi/blob/output/ocean.gif
 
   # Allow manual triggering of the workflow
 
@@ -32,7 +32,7 @@ jobs:
 
   generate:
 
-    runs-on: ubuntu-latest
+    runs-on: arch-latest
 
     timeout-minutes: 10
 
@@ -58,7 +58,7 @@ jobs:
 
           # GitHub username to generate the animation for
 
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ github.myronsi }}
 
 
 
