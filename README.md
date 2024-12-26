@@ -75,7 +75,7 @@ The Remote Computer Access project is a tool designed to facilitate remote acces
 
 ## 📫 Connect with Me
 
-- [Personal Website/Blog](https://viserix.com)
+- [My Website](https://viserix.com)
 
 ---
 
