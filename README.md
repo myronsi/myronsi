@@ -56,20 +56,25 @@ The Messenger project is a real-time messaging application that allows users to 
 
 • WebSocket: Socket.IO for real-time communication between clients and the server.
 
-### [Project 2](https://github.com/myronsi/project2)
-- **Description:** A brief description of what this project does.
-- **Technologies:** Tech stack used in the project.
+### [Project 2](https://github.com/myronsi/remote-computer-access)
+- **Description:**
 
-### [Project 3](https://github.com/myronsi/project3)
-- **Description:** A brief description of what this project does.
-- **Technologies:** Tech stack used in the project.
+The Remote Computer Access project is a tool designed to facilitate remote access and control of computers over a network. It enables users to connect to a remote machine, allowing them to manage files as if they were physically present at the machine. This project aims to provide a simple and efficient way for users to access their computers from different locations, making it useful for remote work, technical support, and system administration.
+
+- **Technologies:**
+
+• Programming Language: Python for developing the core functionality of the remote access tool.
+
+• Networking: Sockets for establishing communication between the client and server.
+
+• Serialization: SSH for data interchange between the client and server.
+
+• Operating System Compatibility: Designed to work on operating systems, including Windows and Linux.
 
 ---
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
 - [Personal Website/Blog](https://viserix.com)
 
 ---
