@@ -41,9 +41,20 @@ Welcome to my GitHub profile! I'm a passionate student, with a love for system p
 
 ## 📂 My Projects
 
-### [Project 1](https://github.com/myronsi/project1)
-- **Description:** A brief description of what this project does.
-- **Technologies:** Tech stack used in the project.
+### [Project 1](https://github.com/myronsi/messanger)
+- **Description:**
+ 
+The Messenger project is a real-time messaging application that allows users to communicate with each other through text messages. It features user authentication, message sending and receiving capabilities, and a user-friendly interface for seamless interaction. The application is designed to facilitate instant communication and supports multiple users.
+
+- **Technologies:**
+- 
+• Frontend: JavaScript for building the user interface.
+
+• Backend: Python for server-side logic and API handling.
+
+• Database: SQLite for storing user data and messages.
+
+• WebSocket: Socket.IO for real-time communication between clients and the server.
 
 ### [Project 2](https://github.com/myronsi/project2)
 - **Description:** A brief description of what this project does.
