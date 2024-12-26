@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm a passionate student, with a love for system p
 The Messenger project is a real-time messaging application that allows users to communicate with each other through text messages. It features user authentication, message sending and receiving capabilities, and a user-friendly interface for seamless interaction. The application is designed to facilitate instant communication and supports multiple users.
 
 - **Technologies:**
-- 
+
 • Frontend: JavaScript for building the user interface.
 
 • Backend: Python for server-side logic and API handling.
