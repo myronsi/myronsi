@@ -10,7 +10,7 @@ on:
 
     - cron: "0 0 * * *"
 
-
+https://github.com/JustCookieCookie/JustCookieCookie/blob/output/ocean.gif
 
   # Allow manual triggering of the workflow
 
