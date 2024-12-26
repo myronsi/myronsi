@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a passionate student, with a love for system p
 
 ## 📂 My Projects
 
-### [Project 1](https://github.com/myronsi/messanger)
+### [Messanger](https://github.com/myronsi/messanger)
 - **Description:**
  
 The Messenger project is a real-time messaging application that allows users to communicate with each other through text messages. It features user authentication, message sending and receiving capabilities, and a user-friendly interface for seamless interaction. The application is designed to facilitate instant communication and supports multiple users.
@@ -56,7 +56,7 @@ The Messenger project is a real-time messaging application that allows users to 
 
 • WebSocket: Socket.IO for real-time communication between clients and the server.
 
-### [Project 2](https://github.com/myronsi/remote-computer-access)
+### [Remote Computer Access](https://github.com/myronsi/remote-computer-access)
 - **Description:**
 
 The Remote Computer Access project is a tool designed to facilitate remote access and control of computers over a network. It enables users to connect to a remote machine, allowing them to manage files as if they were physically present at the machine. This project aims to provide a simple and efficient way for users to access their computers from different locations, making it useful for remote work, technical support, and system administration.
