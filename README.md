@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate student, with a love for system p
 ## 💻 Technologies & Tools
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
+![Java]([https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)) 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
