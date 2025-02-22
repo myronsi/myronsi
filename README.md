@@ -4,15 +4,15 @@ Welcome to my GitHub profile! I'm a passionate student, with a love for system p
 
 ---
 
-## 🌟 About Me
+## About Me
 
-- 🔭 I’m currently working on Remote Computer Access
-- 🌱 I’m learning C++ and Python
-- 👯 I’m looking to collaborate on Web-Projects (Front- and Backend)
-- 🤔 I’m looking for help with system programing (C++ and Assembly)
-- 💬 Ask me about Python on backend side
-- 📫 How to reach me: myron.ilchenko@gmail.com
-- ⚡️ Fun fact: I will be very glad if you offer me collaboration in a project
+-  I’m currently working on Remote Computer Access
+-  I’m learning C++ and Python
+-  I’m looking to collaborate on Web-Projects (Front- and Backend)
+-  I’m looking for help with system programing (C++ and Assembly)
+-  Ask me about Python on backend side
+-  How to reach me: myron.ilchenko@gmail.com
+-  Fun fact: I will be very glad if you offer me collaboration in a project
 
 ---
 
@@ -81,4 +81,4 @@ The Remote Computer Access project is a tool designed to facilitate remote acces
 
 ---
 
-Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or just want to connect! 😊
+Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or just want to connect!
