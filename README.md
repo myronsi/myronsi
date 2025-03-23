@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate student, with a love for system p
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=myronsi&show_icons=true&theme=radical)
+![myronsi's Stats](https://github-readme-stats.vercel.app/api?username=myronsi&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myronsi&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=myronsi&theme=radical)
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=myronsi&theme=radical)
