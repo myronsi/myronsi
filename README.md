@@ -10,7 +10,8 @@ Welcome to my GitHub profile! I'm a passionate student, with a love for system p
 -  I’m learning C and Assembly Language
 -  I’m looking for help with development for my kernel
 -  How to reach me: myron.ilchenko@gmail.com
--  Fun fact: I will be very glad if you offer me collaboration in a project
+  
+-  I will be very glad if you offer me collaboration in a project
 
 ---
 
