@@ -35,9 +35,23 @@ Welcome to my GitHub profile! I'm a passionate student, with a love for system p
 
 ## 📈 GitHub Stats
 
+# My GitHub Stats
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=myronsi&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myronsi&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=myronsi&theme=radical)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=myronsi&theme=radical)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=myronsi&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=myronsi&color=blue&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/myronsi?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/myronsi?label=Stars&style=social)
 ![Contribution Calendar](https://ghchart.rshah.org/myronsi)
+
+## Repository Stats
+
+![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=myronsi&repo=your-repo-name&theme=radical)
+![Repository Size](https://img.shields.io/github/repo-size/myronsi/your-repo-name)
+![GitHub License](https://img.shields.io/github/license/myronsi/your-repo-name)
 
 ![snake gif](https://github.com/myronsi/myronsi/blob/output/github-snake-dark.svg)
 
