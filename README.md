@@ -78,6 +78,12 @@ The Remote Computer Access project is a tool designed to facilitate remote acces
 ## 📫 Connect with Me
 
 - [My Website](https://viserix.com)
+- [LinkedIn](https://www.linkedin.com/in/myron-ilchenko)
+- [Instagram](https://www.instagram.com/myronsi_/?hl=id)
+- [YouTube](https://www.youtube.com/@myronsi)
+- [Telegram](https://t.me/myronsi)
+
+
 
 ---
 
