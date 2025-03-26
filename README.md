@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate student, with a love for system p
 
 ## 💻 Languages & Tools
 
-# Languages
+### Languages
 <p>
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" height="30">
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C" height="30">
@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate student, with a love for system p
 </p>
 <br>
 
-# Tools
+### Tools
 <p>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="30">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="30">
