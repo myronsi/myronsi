@@ -90,11 +90,27 @@ The Remote Computer Access project is a tool designed to facilitate remote acces
 
 ## 📫 Connect with Me
 
-- [My Website](https://viserix.com)
-- [LinkedIn](https://www.linkedin.com/in/myron-ilchenko)
-- [Instagram](https://www.instagram.com/myronsi_/?hl=id)
-- [YouTube](https://www.youtube.com/@myronsi)
-- [Telegram](https://t.me/myronsi)
+<div align="left">
+  <a href="https://viserix.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=4285F4&logoColor=white&style=for-the-badge" height="35" alt="website logo" />
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/in/myron-ilchenko" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <br>
+  <a href="https://www.instagram.com/myronsi_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+  <br>
+  <a href="https://www.youtube.com/@myronsi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="youtube logo" />
+  </a>
+  <br>
+  <a href="https://t.me/myronsi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=26A5E4&logoColor=white&style=for-the-badge" height="35" alt="telegram logo" />
+  </a>
+</div>
 
 
 
