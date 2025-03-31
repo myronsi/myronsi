@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Myron! 
+# 👋 Hi, I'm Myron!
 
 Welcome to my GitHub profile! I'm a passionate student, with a love for system programming. Here you'll find some of my projects, contributions, and a bit about me.
 
