@@ -44,10 +44,29 @@ Welcome to my GitHub profile! I'm a passionate student, with a love for system p
 
 ## 📈 GitHub Stats
 
-![myronsi's Stats](https://github-readme-stats.vercel.app/api?username=myronsi&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![myronsi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=myronsi&theme=vue-dark&hide_border=false)
-![myronsi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myronsi&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=myronsi&theme=radical)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=myronsi&theme=vue-dark&show_icons=true&hide_border=false&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=myronsi&theme=default&show_icons=true&hide_border=false&count_private=true">
+  <img alt="myronsi's Stats" src="https://github-readme-stats.vercel.app/api?username=myronsi&theme=vue-dark&show_icons=true&hide_border=false&count_private=true">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=myronsi&theme=vue-dark&hide_border=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=myronsi&theme=default&hide_border=false">
+  <img alt="myronsi's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=myronsi&theme=vue-dark&hide_border=false">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=myronsi&theme=vue-dark&show_icons=true&hide_border=false&layout=compact">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=myronsi&theme=default&show_icons=true&hide_border=false&layout=compact">
+  <img alt="myronsi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myronsi&theme=vue-dark&show_icons=true&hide_border=false&layout=compact">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=myronsi&theme=radical">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=myronsi&theme=flat">
+  <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=myronsi&theme=radical">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/myronsi/myronsi/blob/output/github-snake-dark.svg">
