@@ -49,7 +49,11 @@ Welcome to my GitHub profile! I'm a passionate student, with a love for system p
 ![myronsi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myronsi&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=myronsi&theme=radical)
 
-![snake gif](https://github.com/myronsi/myronsi/blob/output/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/myronsi/myronsi/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/myronsi/myronsi/blob/output/github-snake.svg">
+  <img alt="snake gif" src="https://github.com/myronsi/myronsi/blob/output/github-snake-dark.svg">
+</picture>
 
 
 ---
