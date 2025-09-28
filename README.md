@@ -1,18 +1,21 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+</style>
+
 # 👋 Hi, I'm Myron! 
 
 Welcome to my GitHub profile! I'm a passionate student, with a love for system programming. Here you'll find some of my projects, contributions, and a bit about me.
 
-![Profile Views](https://komarev.com/ghpvc/?username=myronsi&color=blue&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/myronsi?label=Followers&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/myronsi?label=Stars&style=social) 
+![Profile Views](https://komarev.com/ghpvc/?username=myronsi&color=blue&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/myronsi?label=Followers&style=for-the-badge&color=%23039e7a)
+![GitHub Stars](https://img.shields.io/github/stars/myronsi?label=Stars&style=for-the-badge&color=%f6ff00) 
 
 ---
 
-## About Me
+## ⭐ About Me
 
 -  I’m currently working on Kernel for my own OS
--  I’m learning C and Assembly Language
--  I’m looking for help with development for my kernel
+-  I’m learning Front- & Back-end technologies
 -  How to reach me: myron.ilchenko@gmail.com
 -  I will be very glad if you offer me collaboration in a project
 
@@ -25,11 +28,11 @@ Welcome to my GitHub profile! I'm a passionate student, with a love for system p
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" height="30">
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C" height="30">
   <img src="https://img.shields.io/badge/-Assembly-6E4C13?style=flat&logo=assemblyscript&logoColor=white" alt="Assembly" height="30">
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" height="30">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" height="30">
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" height="30"><br>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="30">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="30">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" height="30">
+  <img src="https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white" height="30">
 </p>
 <br>
 
@@ -40,6 +43,17 @@ Welcome to my GitHub profile! I'm a passionate student, with a love for system p
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="30">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="30">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" height="30">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" height="30"><br>
+  <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira" height="30">
+  <img src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=white" alt="Linux" height="30">
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" height="30">
+  <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" alt="NPM" height="30">
+  <img src="https://img.shields.io/badge/-Material%20UI-007FFF?style=flat&logo=mui&logoColor=white" alt="Material UI" height="30"><br>
+  <img src="https://img.shields.io/badge/-Shadcn%20UI-111827?style=flat&logo=shadcnui&logoColor=white" alt="Shadcn UI" height="30">
+  <img src="https://img.shields.io/badge/-Redux%20Store-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux Store" height="30">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" height="30">
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" height="30">
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" height="30">
 </p>
 
 ## 📈 GitHub Stats
@@ -63,9 +77,9 @@ Welcome to my GitHub profile! I'm a passionate student, with a love for system p
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=myronsi&theme=radical">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=myronsi&theme=flat">
-  <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=myronsi&theme=radical">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=myronsi&theme=radical&no-frame=true&rank=-C,-?">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=myronsi&theme=flat&no-frame=true&rank=-C,-?">
+  <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=myronsi&theme=radical&no-frame=true&rank=-C,-?">
 </picture>
 
 <picture>
@@ -79,37 +93,88 @@ Welcome to my GitHub profile! I'm a passionate student, with a love for system p
 
 ## 📂 My Projects
 
-### [Messanger](https://github.com/myronsi/messanger)
-- **Description:**
- 
-The Messenger project is a real-time messaging application that allows users to communicate with each other through text messages. It features user authentication, message sending and receiving capabilities, and a user-friendly interface for seamless interaction. The application is designed to facilitate instant communication and supports multiple users.
-
-- **Technologies:**
-
-• Frontend: JavaScript for building the user interface.
-
-• Backend: Python for server-side logic and API handling.
-
-• Database: SQLite for storing user data and messages.
-
-• WebSocket: Socket.IO for real-time communication between clients and the server.
-
-### [Remote Computer Access](https://github.com/myronsi/remote-computer-access)
-- **Description:**
-
-The Remote Computer Access project is a tool designed to facilitate remote access and control of computers over a network. It enables users to connect to a remote machine, allowing them to manage files as if they were physically present at the machine. This project aims to provide a simple and efficient way for users to access their computers from different locations, making it useful for remote work, technical support, and system administration.
-
-- **Technologies:**
-
-• Programming Language: Python for developing the core functionality of the remote access tool.
-
-• Networking: Sockets for establishing communication between the client and server.
-
-• Serialization: SSH for data interchange between the client and server.
-
-• Operating System Compatibility: Designed to work on operating systems, including Windows and Linux.
-
-### [Operating System](https://github.com/myronsi/kernelOS)
+<table width="100%">
+	<thead>
+		<th span="col">Project ⚙️</th>
+		<th span="col">Description 📝</th>
+		<th span="col">Role 👷‍♂️</th>
+		<th span="col">Stars ⭐</th>
+	</thead>
+	<tbody>
+    <tr>
+      <th span="row"><a href="https://github.com/myronsi/My-Website-V2">My-Website-V2</a></th>
+      <td>🌐 Website v2 built with TypeScript (personal site / portfolio).</td>
+      <td>Creator</td>
+      <td><img alt="Stars: My-Website-V2" src="https://img.shields.io/github/stars/myronsi/My-Website-V2" /></td>
+    </tr>
+    <tr>
+      <th span="row"><a href="https://github.com/myronsi/messenger-front">messenger-front</a></th>
+      <td>🧩 Frontend for the real-time messenger (TypeScript).</td>
+      <td>Creator</td>
+      <td><img alt="Stars: messenger-front" src="https://img.shields.io/github/stars/myronsi/messenger-front" /></td>
+    </tr>
+    <tr>
+      <th span="row"><a href="https://github.com/myronsi/messenger-back">messenger-back</a></th>
+      <td>💻 Python backend for the messenger: connections, authentication and message storage.</td>
+      <td>Creator</td>
+      <td><img alt="Stars: messenger-back" src="https://img.shields.io/github/stars/myronsi/messenger-back" /></td>
+    </tr>
+    <tr>
+      <th span="row"><a href="https://github.com/myronsi/schachclub-laufenburg">schachclub-laufenburg</a></th>
+      <td>♟️ Club website (TypeScript) — private repo.</td>
+      <td>Contributor</td>
+      <td><img alt="Stars: schachclub-laufenburg" src="https://img.shields.io/github/stars/myronsi/schachclub-laufenburg" /></td>
+    </tr>
+    <tr>
+      <th span="row"><a href="https://github.com/myronsi/KernelOS">KernelOS</a></th>
+      <td>🖥️ Kernel of my operating system (C, low-level OS development).</td>
+      <td>Owner</td>
+      <td><img alt="Stars: KernelOS" src="https://img.shields.io/github/stars/myronsi/KernelOS" /></td>
+    </tr>
+    <tr>
+      <th span="row"><a href="https://github.com/myronsi/todolist">todolist</a></th>
+      <td>✅ Simple todo list application (C#).</td>
+      <td>Creator</td>
+      <td><img alt="Stars: todolist" src="https://img.shields.io/github/stars/myronsi/todolist" /></td>
+    </tr>
+    <tr>
+      <th span="row"><a href="https://github.com/myronsi/Cpp">Cpp</a></th>
+      <td>💠 C++ experiments and libraries.</td>
+      <td>Creator</td>
+      <td><img alt="Stars: Cpp" src="https://img.shields.io/github/stars/myronsi/Cpp" /></td>
+    </tr>
+    <tr>
+      <th span="row"><a href="https://github.com/myronsi/reversation">reversation</a></th>
+      <td>🔁 Java projects and algorithms.</td>
+      <td>Creator</td>
+      <td><img alt="Stars: reversation" src="https://img.shields.io/github/stars/myronsi/reversation" /></td>
+    </tr>
+    <tr>
+      <th span="row"><a href="https://github.com/myronsi/num-sorting">num-sorting</a></th>
+      <td>🔢 Sorting algorithm implementations (Java).</td>
+      <td>Creator</td>
+      <td><img alt="Stars: num-sorting" src="https://img.shields.io/github/stars/myronsi/num-sorting" /></td>
+    </tr>
+    <tr>
+      <th span="row"><a href="https://github.com/myronsi/My-Website-Old">My-Website-Old</a></th>
+      <td>📜 Old version of my personal website (HTML).</td>
+      <td>Creator</td>
+      <td><img alt="Stars: My-Website-Old" src="https://img.shields.io/github/stars/myronsi/My-Website-Old" /></td>
+    </tr>
+    <tr>
+      <th span="row"><a href="https://github.com/myronsi/telegram-bot">telegram-bot</a></th>
+      <td>🤖 Java-based Telegram bot projects.</td>
+      <td>Creator</td>
+      <td><img alt="Stars: telegram-bot" src="https://img.shields.io/github/stars/myronsi/telegram-bot" /></td>
+    </tr>
+    <tr>
+      <th span="row"><a href="https://github.com/myronsi/calculator-java">calculator-java</a></th>
+      <td>➗ Java calculator projects and exercises.</td>
+      <td>Creator</td>
+      <td><img alt="Stars: calculator-java" src="https://img.shields.io/github/stars/myronsi/calculator-java" /></td>
+    </tr>
+	</tbody>
+</table>
 
 ---
 
@@ -120,8 +185,11 @@ The Remote Computer Access project is a tool designed to facilitate remote acces
     <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=4285F4&logoColor=white&style=for-the-badge" height="35" alt="website logo" />
   </a>
   <br>
-  <a href="https://www.linkedin.com/in/myron-ilchenko" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/myron-ilchenko" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">
+    <span style="display:inline-flex; align-items:center; gap:8px; background:#0077B5; color:white; padding:6px 9px; margin-bottom: 6px; font-weight:500;">
+      <img src="./linkedin.svg" width="24" height="24" alt="LinkedIn" style="display:block;" />
+      <b style="line-height:1; letter-spacing: 3px; font-family: 'Montserrat', sans-serif; font-weight:800; font-size:12px;">LINKEDIN</b>
+    </span>
   </a>
   <br>
   <a href="https://www.instagram.com/myronsi_/" target="_blank">
