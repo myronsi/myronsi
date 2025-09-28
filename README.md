@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate student, with a love for system p
 
 ![Profile Views](https://komarev.com/ghpvc/?username=myronsi&color=blue&style=flat-square)
 ![GitHub Followers](https://img.shields.io/github/followers/myronsi?label=Followers&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/myronsi?label=Stars&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/myronsi?label=Stars&style=social) 
 
 ---
 
