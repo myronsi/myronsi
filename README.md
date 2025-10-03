@@ -185,11 +185,8 @@ Welcome to my GitHub profile! I'm a passionate student, with a love for system p
     <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=4285F4&logoColor=white&style=for-the-badge" height="35" alt="website logo" />
   </a>
   <br>
-  <a href="https://www.linkedin.com/in/myron-ilchenko" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">
-    <span style="display:inline-flex; align-items:center; gap:8px; background:#0077B5; color:white; padding:6px 9px; margin-bottom: 6px; font-weight:500;">
-      <img src="./linkedin.svg" width="24" height="24" alt="LinkedIn" style="display:block;" />
-      <b style="line-height:1; letter-spacing: 3px; font-family: 'Montserrat', sans-serif; font-weight:800; font-size:12px;">LINKEDIN</b>
-    </span>
+  <a href="https://www.linkedin.com/in/myron-ilchenko" target="_blank">
+    <img src="https://viserix.com/linkedin.html" height="35" alt="linkedin logo" />
   </a>
   <br>
   <a href="https://www.instagram.com/myronsi_/" target="_blank">
