@@ -1,7 +1,3 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
-</style>
-
 # 👋 Hi, I'm Myron! 
 
 Welcome to my GitHub profile! I'm a passionate student, with a love for system programming. Here you'll find some of my projects, contributions, and a bit about me.
@@ -186,7 +182,7 @@ Welcome to my GitHub profile! I'm a passionate student, with a love for system p
   </a>
   <br>
   <a href="https://www.linkedin.com/in/myron-ilchenko" target="_blank">
-    <img src="https://viserix.com/linkedin.html" height="35" alt="linkedin logo" />
+    <img src="https://viserix.com/icons/linkedin_badge.svg" height="35" alt="linkedin logo" />
   </a>
   <br>
   <a href="https://www.instagram.com/myronsi_/" target="_blank">
