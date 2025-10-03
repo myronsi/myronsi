@@ -185,7 +185,7 @@ Welcome to my GitHub profile! I'm a passionate student, with a love for system p
     <img src="https://viserix.com/icons/linkedin_badge.svg" height="35" alt="linkedin logo" />
   </a>
   <br>
-  <a href="https://www.instagram.com/myronsi_/" target="_blank">
+  <a href="https://www.instagram.com/myron_il/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
   <br>
