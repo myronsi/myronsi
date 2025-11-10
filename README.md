@@ -117,7 +117,7 @@ Welcome to my GitHub profile! I'm a passionate student, with a love for system p
     </tr>
     <tr>
       <th span="row"><a href="https://github.com/myronsi/schachclub-laufenburg">schachclub-laufenburg</a></th>
-      <td>♟️ Club website (TypeScript) — private repo.</td>
+      <td>♟️ Club website (TypeScript) </td>
       <td>Contributor</td>
       <td><img alt="Stars: schachclub-laufenburg" src="https://img.shields.io/github/stars/myronsi/schachclub-laufenburg" /></td>
     </tr>
